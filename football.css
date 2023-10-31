@@ -1,0 +1,21 @@
+header{
+	background-image: url(banner.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+body{
+	background-image: url(https://static.vecteezy.com/system/resources/previews/008/633/288/non_2x/american-football-ball-great-design-for-any-purposes-abstract-background-graphic-element-dark-grunge-background-vector.jpg);
+	background-size: 100%;
+}
+
+#conferencias img{
+	margin: auto;
+	width: 25%;
+}
+
+.login{
+	position: fixed;
+}
+	
+	
